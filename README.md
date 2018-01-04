@@ -13,6 +13,10 @@
 
 **要了解更多关于这个系列丛书背后的动机和角度，请参阅[前言](preface.md)。**
 
+## 译者的话
+
+感谢社区中各位的大力支持，译者再次奉上一点点福利：阿里云产品券，享受所有官网优惠，并抽取幸运大奖：[点击这里领取](https://promotion.aliyun.com/ntms/act/ambassador/sharetouser.html?userCode=qhudmpx3&utm_source=qhudmpx3)
+
 ## 书目
 
 * 在线阅读（免费！）：[“入门与进阶”](up\%20&\%20going/README.md#you-dont-know-js-up--going)，已出版：[立即购买](http://shop.oreilly.com/product/0636920039303.do)印刷版，但是ebook格式是免费的！
